@@ -1,24 +1,24 @@
 /////////////Variables/////////////
 //1. Write a variable called color with a value of "dark blue".
-
+var color = "dark blue"
 //2. Write a variable, myFave, that has the value "My favorite color is "
 
+//var myFave = "My favorite color is ";
 //3. Use the variables from 1 and 2 to make myFavoriteColor equal
 //   "My favorite color is dark blue" (concatenate)
-var myFavoriteColor;
-
+//var myFavoriteColor = myFave + color;
 //4. Create an array of strings that includes the letters a - d in order.
-var aThroughD;
+//var aThroughD = [a , b, c, d];
 //5. Remove 'a' and store it to a variable called isForApple.
-
+//var isForApple = aThroughD.shift(0);
 //6. Add 'e' to the end of aThroughD.
-
+//aThroughD.push(e);
 //7. Add 'apple' to the beginning of aThroughD
-
+//aThroughD.unshift('apple');
 //8. Remove 'c' from the array and put 'cat' in its place
-
+//aThroughD.replace(2, 'cat');
 //9. Leave 'apple' in the array but put a copy of it on a var called bestFruit
-
+//var bestFruit
 //10. Create an object called spaceJam
 //    spaceJam has: a title of 'Space Jam' (String)
 //                  a release_year of 1996 (Number)
